@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6f037f95-f8de-4610-a9a5-caca098e1761" name="Default Changelist" comment="Create .gitignore">
       <changelist_data name="nvkaiii" email="57781771+joychen777@users.noreply.github.com" />
-      <change beforePath="$PROJECT_DIR$/.gitignore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/openCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/openCV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,9 +181,6 @@
       <module name="openCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -218,7 +216,7 @@
       <updated>1625953745005</updated>
       <workItem from="1625953760972" duration="385000" />
       <workItem from="1625954189960" duration="37777000" />
-      <workItem from="1626366144348" duration="524000" />
+      <workItem from="1626366144348" duration="905000" />
     </task>
     <servers />
   </component>
