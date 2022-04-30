@@ -42,7 +42,7 @@ def getContours(img):
         area = cv2.contourArea(c)
         # print(area)
         if area > 500:
-            cv2.drawContours(imgContour, c, -1, (255, 0, 0), 3)
+            cv2.drawContours(imgContour, c, -1, (255, 0, 0),3)
             peri = cv2.arcLength(c, True)  # 算周长
             # print(peri)
             approx = cv2.approxPolyDP(c, 0.02 * peri, True)
